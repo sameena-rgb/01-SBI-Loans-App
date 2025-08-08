@@ -17,6 +17,9 @@ good morning
 <<<<<<< HEAD
 string name="ashok it";
 =======
+int d =40;
+
+
 hello how r u?
 >>>>>>> 484cad751d719a4c554dd30952503166b47a3674
 
