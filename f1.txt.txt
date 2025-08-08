@@ -26,6 +26,7 @@ hello how r u?
 How r u?
 <<<<<<< HEAD
 int c=50;
+int e=50;
 
 This message is from local repository
 =======
