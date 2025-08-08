@@ -21,6 +21,10 @@ hello how r u?
 >>>>>>> 484cad751d719a4c554dd30952503166b47a3674
 
 How r u?
+<<<<<<< HEAD
 
 
 This message is from local repository
+=======
+new variable added in central repository
+>>>>>>> ada386e1bf0661e29527c0082ff6d4f271bd7809
