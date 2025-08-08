@@ -5,7 +5,7 @@ public void m2()
    //logi
 }
 
-
+boolean status = false;
 
 int i =10
 
@@ -14,6 +14,10 @@ int z=12
 
 good morning
 
+<<<<<<< HEAD
 string name="ashok it";
+=======
+hello how r u?
+>>>>>>> 484cad751d719a4c554dd30952503166b47a3674
 
 How r u?
