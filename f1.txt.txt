@@ -5,7 +5,7 @@ public void m2()
    //logi
 }
 
-
+boolean status = false;
 
 int i =10
 
